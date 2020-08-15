@@ -2,7 +2,10 @@
 Basic React native application created on expo framework
 
 ## Run the project
+Install the dependencies
 `npm install`
+
+Run the expo client
 `expo start -c`
 
 ## Features
